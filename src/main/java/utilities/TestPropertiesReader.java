@@ -11,7 +11,7 @@ public class TestPropertiesReader
 {
 
 	private static String configFilePath = new String("ApplicationDetails.properties");
-	private static String seqFilePath = new String("seq.properties");
+	
 
 	//static Properties properties = new Properties();
 	//static InputStream input = null;
