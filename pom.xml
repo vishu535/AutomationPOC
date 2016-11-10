@@ -36,7 +36,7 @@
 				<version>2.4.3</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFiles>Test_Auto.xml</suiteXmlFiles>
+						<suiteXmlFiles>testng.xml</suiteXmlFiles>
 				     </suiteXmlFiles>
 				</configuration>
 			</plugin>
